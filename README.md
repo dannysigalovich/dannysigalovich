@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**dannysigalovich/dannysigalovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contributions
+![Metrics](studio/metrics.plugin.isocalendar.svg)
+
+#### Expertise
+![Metrics](studio/metrics.plugin.topics.icons.svg)
+
+#### Achievements
+![Metrics](studio/metrics.plugin.achievements.svg)
+
+#### Activities
+![Metrics](studio/metrics.plugin.habits.charts.svg)
+
+#### Stats
+![Metrics](studio/metrics.classic.svg)
+
+
+#### Demo Snake 🐍
+<p align="center">
+  <!--credit to sammorozov-->
+ <img width="1000" src="studio/github-snake.svg" alt="snake"/>
+</p>
+
